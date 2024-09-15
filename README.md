@@ -24,12 +24,6 @@ docker run -p 8080:8080 receipt-processor
 
 3. The service will be accessible at http://localhost:8080.
 
-4. Run the Tests:
-
-```bash
-go test -v
-```
-
 ## API Endpoints
 
 ### Process Receipt
